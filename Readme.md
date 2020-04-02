@@ -1,1 +1,1 @@
-Curso JavaScrip Profesional de OpenWebinars
+Curso <strong>JavaScript</strong> Profesional de <strong>OpenWebinars</strong>
